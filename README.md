@@ -31,6 +31,34 @@ Slicers
 
 # Dashboard Preview
 
-![Dashboard Preview](e.png)
+![Dashboard Preview](image1.png)
 
+![Dashboard Preview](image2.png)
 
+# Project Files
+Ecommerce-Sales-Dashboard.xlsx – Excel dashboard
+dashboard-preview.png – Dashboard screenshot
+README.md – Project documentation
+ecommerce_sales.csv - csv file
+
+# Key Insights
+Identifies top-performing states and customers.
+Compares sales across different product categories.
+Shows monthly profit trends.
+Analyzes preferred payment methods.
+Enables quick filtering using slicers for better decision-making.
+
+# Skills Demonstrated
+Data Cleaning
+Data Analysis
+Excel Dashboard Design
+Pivot Tables & Pivot Charts
+Data Visualization
+Business Reporting
+KPI Creation
+
+# Author
+
+Karan Chauhan
+
+Aspiring Data Analyst |Microsoft Excel
